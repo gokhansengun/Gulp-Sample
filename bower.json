@@ -1,0 +1,21 @@
+{
+  "name": "Test-Bower",
+  "version": "1.0.0",
+  "description": "Bower Test for Frontend Code",
+  "authors": [
+    "X Frontend Team"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.xyz.io/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "lib"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+    "jquery": "1.11.1",
+    "bootstrap": "3.3.0"
+  }
+}
